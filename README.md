@@ -70,6 +70,6 @@ Projeto desenvolvido Front-End com framework React.js, Javascript, CSS3, Bootstr
 
                                       Projeto Realizado com Sucesso !!
  <p align="center">                                                         
- <a href="https://www.itstransdata.com/"><img alt="Website" src="![download (1)](https://user-images.githubusercontent.com/83045484/204571768-e35545f5-fc9a-4985-b5de-5cb01d14c549.png)"></a>                                                       
+ <a href="https://www.itstransdata.com/"><img alt="Website" src="https://user-images.githubusercontent.com/83045484/204571768-e35545f5-fc9a-4985-b5de-5cb01d14c549.png"></a>                                                       
 </p>
 
