@@ -3,6 +3,7 @@ import {Routes, Route} from 'react-router-dom'
 import Home from '../pages/Home';
 import Simulador from '../pages/Simulador';
 import Contador from '../pages/Contador';
+import Experiencias from "../pages/Experiencia";
 
 const RouterWrapp = () => {
     return(
@@ -17,7 +18,7 @@ const RouterWrapp = () => {
                 element = {<Contador/>}
             />
             <Route path="/experiencia"
-                element = {<Contador/>}
+                element = {<Experiencias/>}
             />
             <Route path="*"
                 element = {
