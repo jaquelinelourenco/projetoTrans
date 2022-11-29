@@ -70,6 +70,6 @@ Projeto desenvolvido Front-End com framework React.js, Javascript, CSS3, Bootstr
 
                                       Projeto Realizado com Sucesso !!
                                                           
-<p align="center">                                                          
-![download](https://user-images.githubusercontent.com/83045484/204561938-b170ab28-5a12-4711-9c3b-ef45b2ff1c17.png)
-</p>
+                                                        
+             ![download](https://user-images.githubusercontent.com/83045484/204561938-b170ab28-5a12-4711-9c3b-ef45b2ff1c17.png)
+
